@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akasinn
+- 👋 Hi, I’m AKASAKA
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning c++
 - 📫 My atcoder ID is akasinn
